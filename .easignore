@@ -1,0 +1,34 @@
+# Node and package managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+web-build/
+
+# Expo local
+.expo/
+.expo-shared/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Native project folders (managed or prebuild outputs)
+android/
+ios/
+
+# Environment files
+.env*
+.env*.local
+
+# Data and binaries
+data/
+*.db
+habittracker.db
+
+# Vercel local folder
+.vercel/
+
